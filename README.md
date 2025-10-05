@@ -188,4 +188,4 @@ MIT License
 
 ## Contact
 
-For questions or contributions, open an issue or contact [yourname@domain.com].
+For questions or contributions, open an issue.
